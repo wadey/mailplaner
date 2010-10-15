@@ -1,0 +1,16 @@
+--- Contents/Info.plist	2010-01-21 17:40:20.000000000 -0700
++++ Contents/Info.plist	2010-01-21 17:41:18.000000000 -0700
+@@ -46,11 +46,11 @@
+ 	<key>CFBundleIconFile</key>
+ 	<string>Mailplane</string>
+ 	<key>CFBundleIdentifier</key>
+-	<string>com.mailplaneapp.Mailplane</string>
++	<string>com.mailplaneapp.MailplaneSUFFIX</string>
+ 	<key>CFBundleInfoDictionaryVersion</key>
+ 	<string>6.0</string>
+ 	<key>CFBundleName</key>
+-	<string>Mailplane</string>
++	<string>MailplaneSUFFIX</string>
+ 	<key>CFBundlePackageType</key>
+ 	<string>APPL</string>
+ 	<key>CFBundleShortVersionString</key>
